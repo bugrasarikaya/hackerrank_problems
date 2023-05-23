@@ -1,0 +1,2 @@
+Non-Divisible Subset problem from HackerRank, was resolved by using long way but it was declined because out timeout issue.
+Solution was saved as "Non-DivisibleSubset" project because created dynamic for loop method with recursion, was wanted to save.
